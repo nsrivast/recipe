@@ -1,0 +1,9 @@
+<%= link_to 'back', :action => :home %><br /><br />
+
+Recipe: <%= @r.id %><br />
+Food: <%= @f.desc %><br />
+Amount: <%= @f.wt_1d %><br /><br />
+
+<% @f.attributes.each_pair do |key, val | %>
+	<%= key %>: <%= val %> <br />
+<% end %>

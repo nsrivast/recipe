@@ -1,0 +1,50 @@
+<% if @selected %>
+	SELECTED:<br />
+	
+	Recipe: <%= @selected.id %>, 
+	<% f = @selected.food %>
+	<% if !f.nil? %>
+		Food: <%= f.desc %> <%= link_to '(full nutrition)', :action => :nutrition, :id => @selected.id %>
+	<% end %>
+	<hr />
+<% end %>
+
+RECIPES:<br />
+<table border="1">
+<% for r in @top_recipes %>
+	<tr><td>
+		<%= render :partial => "recipe", :locals => {:recipe => r, :depth => 0} %><br />
+	</td></tr>
+<% end %>
+</table>
+
+
+<hr />
+<table border="1" valign="top">
+<tr><td>FOODS</td><td>OPERATIONS</td></tr>
+<tr><td>
+	<ul>
+		<% for g in @groups %>
+			<li>
+				<a href="#" id="<%=g.name.gsub(' ','_')%>" class="show"><%= g.name.upcase + ' >' %></a>
+				<div id="show_<%=g.name.gsub(' ','_')%>" class="shown">
+					<%= render :partial => 'subfood', :locals => {:sub_hash => Food.hashize(g.foods), :depth => 0}%>
+				</div>
+			</li>
+		<% end %>
+	</ul>
+</td><td>
+	<ul>
+		<% for o in @operations %>
+			<li>
+				<%= link_to o.name, :action => :select_operation, :id => o.id %><br />
+			</li>
+		<% end %>
+		
+		<% form_for :operation, :url => { :action => :add_operation } do |form| %>
+			<%= form.text_field :name, :size => 20 %>
+			<%= submit_tag "Add Operation", :class => :submit %>
+		<% end %>
+	</ul>
+</td></tr>
+</table>

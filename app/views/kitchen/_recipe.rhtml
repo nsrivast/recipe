@@ -1,0 +1,28 @@
+<%= '_'*depth %>
+	
+	<%= recipe.id %>. <%= recipe.name %> 
+	<% if !recipe.food.nil? %>
+		(<%= link_to 'sel', :action => :home, :id => recipe.id %>)
+	<% end %>
+	(<%= link_to 'del', :action => :delete_recipe, :id => recipe.id %>)
+	<a href="#" id="<%=recipe.id%>" class="opts">></a>
+	<span id="opts_<%=recipe.id%>" class="opted">
+		(
+		apply_to_me:
+		<% for parent in @recipes.reject{|r| r.id == recipe.id || !r.food_id.nil? } %>
+			<%= link_to '<' + parent.id.to_s, :action => :apply_recipe, :id_parent => parent.id, :id_child => recipe.id -%>, 
+		<% end %>
+		
+		<% if recipe.food_id.nil? %>
+			apply_me_to:
+			<% for other in @recipes.reject{|r| r.id == recipe.id} %>
+				<%= link_to other.id.to_s + '>', :action => :apply_recipe, :id_parent => recipe.id, :id_child => other.id -%>, 
+			<% end %>
+		<% end %>
+		)
+	</span>
+	<br />
+<% for c in recipe.children %>
+	<%= render :partial => 'recipe', :locals => {:recipe => c, :depth => depth+4} %>
+<% end %>
+

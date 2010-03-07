@@ -1,0 +1,15 @@
+<% sub_hash.each_pair do |key, value| %>
+
+	<% if value.is_a?(Integer) %>
+		<%= '-'*depth %><%= link_to key, :action => 'select_food', :id => value %><br />
+		
+	<% else %>
+		<% id_key = key.gsub(' ','_').gsub(',','_').gsub('&','_').gsub('/','_') + rand(99).to_s %>
+		<%= '-'*depth %><a href="#" id="<%=id_key%>" class="show"><%= key + ' >' %></a><br />
+		
+		<div id="show_<%=id_key%>" class="shown">
+			<%= render :partial => 'subfood', :locals => {:sub_hash => value, :depth => depth+2} %>
+		</div>
+		
+	<% end %>
+<% end %>

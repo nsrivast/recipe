@@ -1,0 +1,31 @@
+<html>
+
+	<head>
+		<%= javascript_include_tag "jquery" %>
+		
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$("div.shown").hide();
+				$("span.opted").hide();
+				
+				$("a.opts").click(function(event) {
+					$("#opts_"+event.target.id).toggle();
+				})
+				
+				$("a.show").click(function(event) {
+					$("#show_"+event.target.id).toggle();
+				});
+				
+			});
+		</script>
+		
+		<style type="text/css">
+			a.show { color: red; }
+		</style>
+	</head>   
+
+	<body>
+		<%= yield %>
+	</body>
+	
+</html>

@@ -1,0 +1,128 @@
+01004,0100,"Cheese, blue","CHEESE,BLUE","","","Y","",0,"",6.38,4.27,8.79,3.87
+01005,0100,"Cheese, brick","CHEESE,BRICK","","","Y","",0,"",6.38,4.27,8.79,3.87
+01006,0100,"Cheese, brie","CHEESE,BRIE","","","Y","",0,"",6.38,4.27,8.79,3.87
+01007,0100,"Cheese, camembert","CHEESE,CAMEMBERT","","","Y","",0,"",6.38,4.27,8.79,3.87
+01008,0100,"Cheese, caraway","CHEESE,CARAWAY","","","","",0,"",6.38,4.27,8.79,3.87
+01009,0100,"Cheese, cheddar","CHEESE,CHEDDAR","","","Y","",0,"",6.38,4.27,8.79,3.87
+01010,0100,"Cheese, cheshire","CHEESE,CHESHIRE","","","","",0,"",6.38,4.27,8.79,3.87
+01011,0100,"Cheese, colby","CHEESE,COLBY","","","Y","",0,"",6.38,4.27,8.79,3.87
+01012,0100,"Cheese, cottage, creamed, large or small curd","CHEESE,COTTAGE,CRMD,LRG OR SML CURD","","","Y","",0,"",6.38,4.27,8.79,3.87
+01013,0100,"Cheese, cottage, creamed, with fruit","CHEESE,COTTAGE,CRMD,W/FRUIT","","","Y","",0,"",6.38,4.27,8.79,3.87
+01014,0100,"Cheese, cottage, nonfat, uncreamed, dry, large or small curd","CHEESE,COTTAGE,NONFAT,UNCRMD,DRY,LRG OR SML CURD","","","Y","",0,"",6.38,4.27,8.79,3.87
+01015,0100,"Cheese, cottage, lowfat, 2% milkfat","CHEESE,COTTAGE,LOWFAT,2% MILKFAT","","","Y","",0,"",6.38,4.27,8.79,3.87
+01016,0100,"Cheese, cottage, lowfat, 1% milkfat","CHEESE,COTTAGE,LOWFAT,1% MILKFAT","","","Y","",0,"",6.38,4.27,8.79,3.87
+01017,0100,"Cheese, cream","CHEESE,CREAM","","","Y","",0,"",6.38,4.27,8.79,3.87
+01018,0100,"Cheese, edam","CHEESE,EDAM","","","Y","",0,"",6.38,4.27,8.79,3.87
+01019,0100,"Cheese, feta","CHEESE,FETA","","","Y","",0,"",6.38,4.27,8.79,3.87
+01020,0100,"Cheese, fontina","CHEESE,FONTINA","","","Y","",0,"",6.38,4.27,8.79,3.87
+01021,0100,"Cheese, gjetost","CHEESE,GJETOST","","","","",0,"",6.38,4.27,8.79,3.87
+01022,0100,"Cheese, gouda","CHEESE,GOUDA","","","Y","",0,"",6.38,4.27,8.79,3.87
+01077,0100,"Milk, whole, 3.25% milkfat, with added vitamin D","MILK,WHL,3.25% MILKFAT,W/ ADDED VITAMIN D","","","Y","",0,"",,,,
+01078,0100,"Milk, producer, fluid, 3.7% milkfat","MILK,PRODUCER,FLUID,3.7% MILKFAT","","","","",0,"",6.38,4.27,8.79,3.87
+01088,0100,"Milk, buttermilk, fluid, cultured, lowfat","MILK,BTTRMLK,FLUID,CULTURED,LOWFAT","","","Y","",0,"",6.38,4.27,8.79,3.87
+01128,0100,"Egg, whole, cooked, fried","EGG,WHL,CKD,FRIED","","","Y","",0,"",,,,
+01129,0100,"Egg, whole, cooked, hard-boiled","EGG,WHL,CKD,HARD-BOILED","","","Y","Shell",12,"",6.25,4.36,9.02,3.68
+01130,0100,"Egg, whole, cooked, omelet","EGG,WHOLE,COOKED,OMELET","","","Y","",0,"",6.25,4.36,9.02,3.68
+01131,0100,"Egg, whole, cooked, poached","EGG,WHL,CKD,POACHED","","","Y","",0,"",,,,
+01132,0100,"Egg, whole, cooked, scrambled","EGG,WHL,CKD,SCRMBLD","","","Y","",0,"",6.25,4.36,9.02,3.68
+01133,0100,"Egg, whole, dried","EGG,WHOLE,DRIED","","","Y","",0,"",6.25,4.36,9.02,3.68
+01134,0100,"Egg, whole, dried, stabilized, glucose reduced","EGG,WHL,DRIED,STABILIZED,GLUCOSE RED","","","","",0,"",6.25,4.36,9.02,3.68
+02001,0200,"Spices, allspice, ground","ALLSPICE,GROUND","","","","",0,"Pimenta dioica",6.25,3.36,8.37,2.35
+02002,0200,"Spices, anise seed","ANISE SEED","","","","",0,"Pimpinella anisum",6.25,3.36,8.37,2.90
+02003,0200,"Spices, basil, dried","SPICES,BASIL,DRIED","","","Y","",0,"Ocimum basilicum",6.25,2.44,8.37,3.00
+02004,0200,"Spices, bay leaf","SPICES,BAY LEAF","","","","",0,"Laurus nobilis",6.25,2.44,8.37,3.00
+02005,0200,"Spices, caraway seed","CARAWAY SEED","","","Y","",0,"Carum carvi",6.25,3.36,8.37,2.90
+02006,0200,"Spices, cardamom","SPICES,CARDAMOM","","","","",0,"Elettaria cardamomum",6.25,3.36,8.37,3.20
+02007,0200,"Spices, celery seed","CELERY SEED","","","Y","",0,"Apium graveolens",6.25,3.36,8.37,2.90
+02008,0200,"Spices, chervil, dried","CHERVIL,DRIED","","","","",0,"Anthriscus cerefolium",6.25,2.44,8.37,3.00
+02009,0200,"Spices, chili powder","CHILI POWDER","","","Y","",0,"",6.25,3.23,8.37,2.39
+02010,0200,"Spices, cinnamon, ground","CINNAMON,GROUND","Cassia","","Y","",0,"Cinnamomum aromaticum",6.25,1.82,8.37,2.85
+02011,0200,"Spices, cloves, ground","CLOVES,GROUND","","","Y","",0,"Syzygium aromaticum",6.25,1.82,8.37,2.35
+02012,0200,"Spices, coriander leaf, dried","CORIANDER LEAF,DRIED","Chinese parsley, cilantro","","Y","",0,"Coriandrum sativum",6.25,2.44,8.37,3.57
+02013,0200,"Spices, coriander seed","CORIANDER SEED","","","","",0,"Coriandrum sativum",6.25,3.36,8.37,1.95
+02014,0200,"Spices, cumin seed","CUMIN SEED","","","Y","",0,"Cuminum cyminum",6.25,3.36,8.37,2.90
+02015,0200,"Spices, curry powder","CURRY POWDER","","","Y","",0,"",6.18,3.12,8.37,2.92
+02016,0200,"Spices, dill seed","DILL SEED","","","","",0,"Anethum graveolens",6.25,3.36,8.37,2.35
+02017,0200,"Spices, dill weed, dried","DILL WEED,DRIED","","","","",0,"Anethum graveolens",6.25,2.44,8.37,3.00
+04034,0400,"Oil, soybean, salad or cooking, (partially hydrogenated)","OIL,SOYBN,SALAD OR COOKING,(PARTIALLY HYDROGENATED)","","","Y","",0,"",0.00,,8.84,
+04037,0400,"Oil, rice bran","OIL,RICE BRAN","","","","",0,"",0.00,,8.84,
+04038,0400,"Oil, wheat germ","OIL,WHEAT GERM","","","Y","",0,"",0.00,,8.84,
+04042,0400,"Oil, peanut, salad or cooking","OIL,PNUT,SALAD OR COOKING","","","Y","",0,"",0.00,,8.84,
+04044,0400,"Oil, soybean, salad or cooking","OIL,SOYBN,SALAD OR COOKING","","","Y","",0,"",0.00,,8.84,
+04047,0400,"Oil, coconut","OIL,COCNT","","","Y","",0,"",0.00,,8.62,
+04053,0400,"Oil, olive, salad or cooking","OIL,OLIVE,SALAD OR COOKING","","","Y","",0,"",0.00,,8.84,
+05163,0500,"Turkey, all classes, meat and skin and giblets and neck, raw","TURKEY,ALL CLASSES,MEAT&SKN&GIBLETS&NECK,RAW","","","","Bone",21,"Meleagris gallopavo",6.25,4.27,9.02,3.87
+05164,0500,"Turkey, all classes, meat and skin and giblets and neck, cooked, roasted","TURKEY,ALL CLASSES,MEAT&SKN&GIBLETS&NECK,CKD,RSTD","","","","Bone",21,"",6.25,4.27,9.02,3.87
+05165,0500,"Turkey, all classes, meat and skin, raw","TURKEY,ALL CLASSES,MEAT&SKN,RAW","","","Y","Bone",21,"",6.25,4.27,9.02,3.87
+05166,0500,"Turkey, all classes, meat and skin, cooked, roasted","TURKEY,ALL CLASSES,MEAT&SKN,CKD,RSTD","","","Y","Bone",21,"",6.25,4.27,9.02,3.87
+05177,0500,"Turkey, liver, all classes, raw","TURKEY,LIVER,ALL CLASSES,RAW","","","","",0,"",6.25,4.27,9.02,3.87
+05178,0500,"Turkey, liver, all classes, cooked, simmered","TURKEY,LIVER,ALL CLASSES,CKD,SIMMRD","","","","",0,"",6.25,4.27,9.02,3.87
+05179,0500,"Turkey, all classes, neck, meat only, raw","TURKEY,ALL CLASSES,NECK,MEAT ONLY,RAW","","","","Bone",42,"",6.25,4.27,9.02,3.87
+05180,0500,"Turkey, all classes, neck, meat only, cooked, simmered","TURKEY,ALL CLASSES,NECK,MEAT ONLY,CKD,SIMMRD","","","Y","Bone",41,"",6.25,4.27,9.02,3.87
+05181,0500,"Turkey, all classes, light meat, meat and skin, raw","TURKEY,ALL CLASSES,LT MEAT,MEAT&SKN,RAW","","","","Bone",15,"",6.25,4.27,9.02,3.87
+05182,0500,"Turkey, all classes, light meat, meat and skin, cooked, roasted","TURKEY,ALL CLASSES,LT MEAT,MEAT&SKN,CKD,RSTD","","","Y","Bone",14,"",6.25,4.27,9.02,3.87
+05183,0500,"Turkey, all classes, dark meat, meat and skin, raw","TURKEY,ALL CLASSES,DK MEAT,MEAT&SKN,RAW","","","","Bone",26,"",6.25,4.27,9.02,3.87
+05184,0500,"Turkey, all classes, dark meat, meat and skin, cooked, roasted","TURKEY,ALL CLASSES,DK MEAT,MEAT&SKN,CKD,RSTD","","","Y","Bone",27,"",6.25,4.27,9.02,3.87
+05185,0500,"Turkey, all classes, light meat, raw","TURKEY,ALL CLASSES,LT MEAT,RAW","","","","15% bone, 14% skin",29,"",6.25,4.27,9.02,3.87
+05186,0500,"Turkey, all classes, light meat, cooked, roasted","TURKEY,ALL CLASSES,LT MEAT,CKD,RSTD","","","Y","14% bone, 12% skin",26,"",6.25,4.27,9.02,3.87
+05187,0500,"Turkey, all classes, dark meat, raw","TURKEY,ALL CLASSES,DK MEAT,RAW","","","","26% bone, 10% skin",36,"",6.25,4.27,9.02,3.87
+05206,0500,"Turkey, fryer-roasters, light meat, meat and skin, cooked, roasted","TURKEY,FRYER-ROASTERS,LT MEAT,MEAT&SKN,CKD,RSTD","","","","Bone",19,"",6.25,4.27,9.02,3.87
+05207,0500,"Turkey, fryer-roasters, dark meat, meat and skin, raw","TURKEY,FRYER-ROASTERS,DK MEAT,MEAT&SKN,RAW","","","","Bone",30,"",6.25,4.27,9.02,3.87
+05208,0500,"Turkey, fryer-roasters, dark meat, meat and skin, cooked, roasted","TURKEY,FRYER-ROASTERS,DK MEAT,MEAT&SKN,CKD,RSTD","","","","Bone",31,"",6.25,4.27,9.02,3.87
+05209,0500,"Turkey, fryer-roasters, light meat, meat only, raw","TURKEY,FRYER-ROASTERS,LT MEAT,MEAT ONLY,RAW","","","","19% bone, 12% skin",31,"",6.25,4.27,9.02,3.87
+05210,0500,"Turkey, fryer-roasters, light meat, meat only, cooked, roasted","TURKEY,FRYER-ROASTERS,LT MEAT,MEAT ONLY,CKD,RSTD","","","","19% bone, 12% skin",31,"",6.25,4.27,9.02,3.87
+05211,0500,"Turkey, fryer-roasters, dark meat, meat only, raw","TURKEY,FRYER-ROASTERS,DK MEAT,MEAT ONLY,RAW","","","","30% bone, 7% skin",37,"",6.25,4.27,9.02,3.87
+05621,0500,"Emu, ground, raw","EMU,GROUND,RAW","","","","",0,"Dromaius novaehollandiae",6.25,4.27,9.02,3.87
+05622,0500,"Emu, ground, cooked, pan-broiled","EMU,GROUND,CKD,PAN-BROILED","","","","",0,"Dromaius novaehollandiae",6.25,4.27,9.02,3.87
+05623,0500,"Emu, fan fillet, raw","EMU,FAN FILLET,RAW","","","","",0,"Dromaius novaehollandiae",6.25,4.27,9.02,3.87
+05624,0500,"Emu, fan fillet, cooked, broiled","EMU,FAN FILLET,CKD,BRLD","","","","",0,"Dromaius novaehollandiae",6.25,4.27,9.02,3.87
+05625,0500,"Emu, flat fillet, raw","EMU,FLAT FILLET,RAW","","","","",0,"Dromaius novaehollandiae",6.25,4.27,9.02,3.87
+05626,0500,"Emu, full rump, raw","EMU,FULL RUMP,RAW","","","","",0,"Dromaius novaehollandiae",6.25,4.27,9.02,3.87
+05627,0500,"Emu, full rump, cooked, broiled","EMU,FULL RUMP,CKD,BRLD","","","","",0,"Dromaius novaehollandiae",6.25,4.27,9.02,3.87
+09021,0900,"Apricots, raw","APRICOTS,RAW","Includes USDA commodity food A386","","Y","Pits",7,"Prunus armeniaca",6.25,3.36,8.37,3.60
+09022,0900,"Apricots, canned, water pack, with skin, solids and liquids","APRICOTS,CND,H2O PK,W/SKN,SOL&LIQUIDS","","","Y","",0,"",6.25,3.36,8.37,3.60
+09023,0900,"Apricots, canned, water pack, without skin, solids and liquids","APRICOTS,CND,H2O PK,WO/SKN,SOL&LIQUIDS","","","","Pits",6,"",6.25,3.36,8.37,3.60
+09024,0900,"Apricots, canned, juice pack, with skin, solids and liquids","APRICOTS,CND,JUC PK,W/SKN,SOL&LIQUIDS","","","Y","",0,"",6.25,3.36,8.37,3.70
+09025,0900,"Apricots, canned, extra light syrup pack, with skin, solids and liquids","APRICOTS,CND,EX LT SYRUP PK,W/SKN,SOL&LIQUIDS","","","","",0,"",6.25,3.36,8.37,3.69
+09026,0900,"Apricots, canned, light syrup pack, with skin, solids and liquids","APRICOTS,CND,LT SYRUP PK,W/SKN,SOL&LIQUIDS","","","Y","",0,"",6.25,3.36,8.37,3.71
+09027,0900,"Apricots, canned, heavy syrup pack, with skin, solids and liquids","APRICOTS,CND,HVY SYRUP PK,W/SKN,SOL&LIQUIDS","","","Y","",0,"",6.25,3.36,8.37,3.75
+09028,0900,"Apricots, canned, heavy syrup pack, without skin, solids and liquids","APRICOTS,CND,HVY SYRUP PK,WO/SKN,SOL&LIQUIDS","","","","Pits",6,"",6.25,3.36,8.37,3.75
+09029,0900,"Apricots, canned, extra heavy syrup pack, without skin, solids and liquids","APRICOTS,CND,EX HVY SYRUP PK,WO/SKN,SOL&LIQUIDS","","","","Pits",6,"",6.25,3.36,8.37,3.78
+09030,0900,"Apricots, dehydrated (low-moisture), sulfured, uncooked","APRICOTS,DEHYD (LOW-MOISTURE),SULFURED,UNCKD","","","","",0,"",6.25,3.36,8.37,3.60
+09031,0900,"Apricots, dehydrated (low-moisture), sulfured, stewed","APRICOTS,DEHYD (LOW-MOISTURE),SULFURED,STWD","","","","",0,"",6.25,3.36,8.37,3.60
+09032,0900,"Apricots, dried, sulfured, uncooked","APRICOTS,DRIED,SULFURED,UNCKD","","","Y","",0,"",6.25,3.36,8.37,3.60
+09033,0900,"Apricots, dried, sulfured, stewed, without added sugar","APRICOTS,DRIED,SULFURED,STWD,WO/ SUGAR","","","Y","",0,"",6.25,3.36,8.37,3.60
+09034,0900,"Apricots, dried, sulfured, stewed, with added sugar","APRICOTS,DRIED,SULFURED,STWD,W/ SUGAR","","","","",0,"",6.25,3.36,8.37,3.60
+09200,0900,"Oranges, raw, all commercial varieties","ORANGES,RAW,ALL COMM VAR","","","Y","Peel and seeds",27,"Citrus sinensis",6.25,3.36,8.37,3.60
+09201,0900,"Oranges, raw, California, valencias","ORANGES,RAW,CALIFORNIA,VALENCIAS","","","","Peel and seeds",25,"Citrus sinensis",6.25,3.36,8.37,3.60
+09202,0900,"Oranges, raw, navels","ORANGES,RAW,NAVELS","","","","Peel and navel",32,"Citrus sinensis",6.25,3.36,8.37,3.60
+09203,0900,"Oranges, raw, Florida","ORANGES,RAW,FLORIDA","","","Y","Peel and seeds",26,"Citrus sinensis",6.25,3.36,8.37,3.60
+09205,0900,"Oranges, raw, with peel","ORANGES,RAW,WITH PEEL","","","","Seeds",1,"Citrus sinensis",6.25,3.36,8.37,3.60
+09206,0900,"Orange juice, raw","ORANGE JUICE,RAW","","","Y","",0,"",6.25,3.36,8.37,3.92
+09207,0900,"Orange juice, canned, unsweetened","ORANGE JUC,CND,UNSWTND","","","Y","",0,"",6.25,3.36,8.37,3.92
+09209,0900,"Orange juice, chilled, includes from concentrate","ORANGE JUC,CHILLED,INCL FROM CONC","","","Y","",0,"",6.25,3.36,8.37,3.92
+09210,0900,"Orange juice, chilled, includes from concentrate, fortified with calcium and vitamin D","ORANGE JUC,CHILLED,INCL FROM CONC,FORT W/ CA & VITAMIN D","","","Y","",0,"",6.25,3.36,8.37,3.92
+09211,0900,"Orange juice, chilled, includes from concentrate, fortified with calcium","ORANGE JUC,CHILLED,INCL FROM CONC,FORT W/ CA","","","Y","",0,"",6.25,3.36,8.37,3.92
+09214,0900,"Orange juice, frozen concentrate, unsweetened, undiluted","ORANGE JUC,FRZ CONC,UNSWTND,UNDIL","","","Y","",0,"",6.25,3.36,8.37,3.92
+11052,1100,"Beans, snap, green, raw","BEANS,SNAP,GREEN,RAW","","","Y","Ends, strings, trimmings",12,"Phaseolus vulgaris",6.25,2.44,8.37,3.57
+11053,1100,"Beans, snap, green, cooked, boiled, drained, without salt","BEANS,SNAP,GRN,CKD,BLD,DRND,WO/SALT","","","Y","",0,"",6.25,2.44,8.37,3.57
+11054,1100,"Beans, snap, green variety, canned, regular pack, solids and liquids","BEANS,SNAP,GRN VAR,CND,REG PK,SOL&LIQUIDS","","","","",0,"",6.25,2.44,8.37,3.57
+11056,1100,"Beans, snap, green, canned, regular pack, drained solids","BEANS,SNAP,GRN,CND,REG PK,DRND SOL","Includes USDA commodity food A059, A061","","Y","",0,"",,,,
+11058,1100,"Beans, snap, canned, all styles, seasoned, solids and liquids","BEANS,SNAP,CND,ALL STYLES,SEASONED,SOL&LIQUIDS","","","","",0,"",6.25,2.44,8.37,3.57
+11060,1100,"Beans, snap, green, frozen, all styles, unprepared","BEANS,SNAP,GRN,FRZ,ALL STYLES,UNPREP","","","","",0,"",,,,
+11061,1100,"Beans, snap, green, frozen, cooked, boiled, drained without salt","BEANS,SNAP,GRN,FRZ,CKD,BLD,DRND WO/SALT","","","Y","",0,"",6.25,2.44,8.37,3.57
+11062,1100,"Beans, snap, green, frozen, all styles, microwaved","BEANS,SNAP,GRN,FRZ,ALL STYLES,MICROWAVED","","","","",0,"",,,,
+11063,1100,"Beans, snap, green, microwaved","BEANS,SNAP,GRN,MICROWAVED","","","","",0,"",,,,
+11080,1100,"Beets, raw","BEETS,RAW","","","Y","Parings and part tops",33,"Beta vulgaris",6.25,2.78,8.37,3.84
+11081,1100,"Beets, cooked, boiled, drained","BEETS,CKD,BLD,DRND","","","Y","",0,"",6.25,2.78,8.37,3.84
+11082,1100,"Beets, canned, regular pack, solids and liquids","BEETS,CND,REG PK,SOL&LIQUIDS","","","","",0,"",6.25,2.78,8.37,3.84
+11084,1100,"Beets, canned, drained solids","BEETS,CND,DRND SOL","","","Y","",0,"",6.25,2.78,8.37,3.84
+11282,1100,"Onions, raw","ONIONS,RAW","","","Y","Stem ends, sprouts and defects",10,"Allium cepa",6.25,2.78,8.37,3.84
+11283,1100,"Onions, cooked, boiled, drained, without salt","ONIONS,CKD,BLD,DRND,WO/SALT","","","Y","",0,"",6.25,2.78,8.37,3.84
+11284,1100,"Onions, dehydrated flakes","ONIONS,DEHYDRATED FLAKES","","","Y","",0,"",6.25,2.78,8.37,3.84
+11285,1100,"Onions, canned, solids and liquids","ONIONS,CND,SOL&LIQUIDS","","","","",0,"",6.25,2.78,8.37,3.84
+11286,1100,"Onions, yellow, sauteed","ONIONS,YEL,SAUTEED","","","","",0,"",,,,
+11287,1100,"Onions, frozen, chopped, unprepared","ONIONS,FRZ,CHOPD,UNPREP","","","","",0,"",6.25,2.78,8.37,3.84
+11288,1100,"Onions, frozen, chopped, cooked, boiled, drained, without salt","ONIONS,FRZ,CHOPD,CKD,BLD,DRND,WO/SALT","","","Y","",0,"",6.25,2.78,8.37,3.84
+11289,1100,"Onions, frozen, whole, unprepared","ONIONS,FRZ,WHL,UNPREP","","","Y","",0,"",6.25,2.78,8.37,3.84
+11290,1100,"Onions, frozen, whole, cooked, boiled, drained, without salt","ONIONS,FRZ,WHL,CKD,BLD,DRND,WO/SALT","","","Y","",0,"",6.25,2.78,8.37,3.84
